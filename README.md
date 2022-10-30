@@ -11,4 +11,4 @@
 </ul>
 
 <p>O tema desse E-commerce é baseado no anime "Jo Jo Bizarre Adventures"!</p>
-<p>Essa aplicação foi feita usando flex-box no CSS para alinhar os itens e utiliza algumas pseudoclasses para dar alguns efeitos. Quanto ao JavaScript, a árvore DOM foi muito utilizada para filtragem, e interação com o carrinho</p>
+<p>Essa aplicação foi feita usando flex-box no CSS para alinhar os itens e utiliza algumas pseudoclasses para dar alguns efeitos. Quanto ao JavaScript, a árvore DOM foi muito utilizada para filtragem, e interação com o carrinho de compras.</p>
